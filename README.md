@@ -1,5 +1,5 @@
 # Java21-feature
-i decided to talk to you about the feature of JAVA 21 this is finally release on 19-sep- 2023 in this short but comperhensive gide .
+i decided to talk to you about the feature of JAVA 21 that is finally release on 19-sep- 2023 in this short but comperhensive gide .
 
 i hope it will be interesting and effective for you .
 
